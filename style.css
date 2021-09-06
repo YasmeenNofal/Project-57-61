@@ -1,0 +1,76 @@
+img{
+    width:320px;
+    height:300px;
+    border: dashed 6px dimgray;
+    text-align: center;
+}
+body{
+    background-color:beige;
+    text-align:center;
+    margin:0;
+}
+#welcome{
+    height:450px;
+    background-color:burlywood;
+    width:100%;
+    text-align: center;
+    padding-top:100px;
+}
+h1{
+    color:cornflowerblue;
+    font-family:monospace;
+    font-size:35px;
+}
+h2{
+    color:crimson;
+    font-family:fantasy;
+    font-size:30px;
+    font-weight:bold;
+}
+p{
+    color:firebrick;
+    max-width: 450px;
+    font-size:20px
+}
+.line{
+    height:6px;
+    width:70px;
+    background-color:black;
+    margin:8px;
+}
+.menu{
+    top:10px;
+right:30px;
+   position: fixed;
+    list-style: none;
+}
+.links{
+    float:left;
+padding-left:9px;
+    padding-right:12px;
+    font-family:monospace;
+        font-size:18px;
+}
+#bio{
+    text-align:center;
+    margin-left:400px;
+    height:450px;    
+}
+#sharapova{
+    text-align:center; 
+    width:187px;
+    height:300px;
+    border: dotted 9px navy;
+}
+.maria{
+    background-color:black;
+    height:6px;
+    width:70px;
+    margin:8px;
+}
+.links:hover{
+    background-color:antiquewhite;
+    font-size:23px;
+    font-weight:bold;
+    color:black;
+}
